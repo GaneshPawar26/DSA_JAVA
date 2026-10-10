@@ -14,6 +14,9 @@ public class One {
         System.out.println(s);
         s.push(30);
         System.out.println(s);
+        System.out.println(s.peek());
+        System.out.println(s);
+
 
     }
 }
