@@ -17,6 +17,8 @@ public class One
         System.out.println("This is Queue");
         System.out.println(q.peek());
         System.out.println(q);
+        q.remove();
+        System.out.println(q);
     }
 }
 
